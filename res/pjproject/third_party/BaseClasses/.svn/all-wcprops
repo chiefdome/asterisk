@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/BaseClasses
+END
+refclock.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/refclock.h
+END
+mtype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/mtype.cpp
+END
+wxlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/wxlist.h
+END
+reftime.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/reftime.h
+END
+seekpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/seekpt.h
+END
+wxutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/wxutil.h
+END
+mtype.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/mtype.h
+END
+amfilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/amfilter.cpp
+END
+arithutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/arithutil.cpp
+END
+wxdebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/wxdebug.cpp
+END
+measure.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/measure.h
+END
+amfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/amfilter.h
+END
+combase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/combase.cpp
+END
+wxdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/wxdebug.h
+END
+msgthrd.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/msgthrd.h
+END
+combase.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/combase.h
+END
+renbase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/renbase.cpp
+END
+ctlutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/ctlutil.cpp
+END
+streams.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/streams.h
+END
+amvideo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/amvideo.cpp
+END
+renbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/renbase.h
+END
+ctlutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/ctlutil.h
+END
+fourcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/fourcc.h
+END
+wxlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/wxlist.cpp
+END
+wxutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/BaseClasses/wxutil.cpp
+END

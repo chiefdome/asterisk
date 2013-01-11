@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/asterisk/!svn/ver/378858/trunk/bridges
+END
+bridge_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/378840/trunk/bridges/bridge_simple.c
+END
+bridge_softmix.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/378858/trunk/bridges/bridge_softmix.c
+END
+bridge_multiplexed.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/378858/trunk/bridges/bridge_multiplexed.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/375007/trunk/bridges/Makefile
+END
+bridge_builtin_features.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/361429/trunk/bridges/bridge_builtin_features.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/mp3
+END
+mp3_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/mp3/mp3_port.h
+END
+mp3_writer.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/mp3/mp3_writer.c
+END
+BladeMP3EncDLL.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/mp3/BladeMP3EncDLL.h
+END

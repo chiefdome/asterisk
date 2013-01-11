@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/378322/trunk/apps/confbridge
+END
+conf_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/378002/trunk/apps/confbridge/conf_state.c
+END
+conf_config_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/377356/trunk/apps/confbridge/conf_config_parser.c
+END
+conf_state_single.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/374658/trunk/apps/confbridge/conf_state_single.c
+END
+conf_state_inactive.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/asterisk/!svn/ver/374658/trunk/apps/confbridge/conf_state_inactive.c
+END
+conf_state_single_marked.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/374658/trunk/apps/confbridge/conf_state_single_marked.c
+END
+conf_state_multi.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/asterisk/!svn/ver/374658/trunk/apps/confbridge/conf_state_multi.c
+END
+conf_state_multi_marked.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/asterisk/!svn/ver/378002/trunk/apps/confbridge/conf_state_multi_marked.c
+END
+conf_state_empty.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/asterisk/!svn/ver/378322/trunk/apps/confbridge/conf_state_empty.c
+END

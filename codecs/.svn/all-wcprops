@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/asterisk/!svn/ver/377384/trunk/codecs
+END
+codec_lpc10.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/328259/trunk/codecs/codec_lpc10.c
+END
+codec_g722.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/328259/trunk/codecs/codec_g722.c
+END
+codec_a_mu.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/328259/trunk/codecs/codec_a_mu.c
+END
+ex_lpc10.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/306010/trunk/codecs/ex_lpc10.h
+END
+codec_adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/328259/trunk/codecs/codec_adpcm.c
+END
+codec_speex.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/373330/trunk/codecs/codec_speex.c
+END
+codec_alaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/328259/trunk/codecs/codec_alaw.c
+END
+codec_g726.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/362307/trunk/codecs/codec_g726.c
+END
+ex_g722.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/306010/trunk/codecs/ex_g722.h
+END
+codec_gsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/328259/trunk/codecs/codec_gsm.c
+END
+ex_alaw.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/306010/trunk/codecs/ex_alaw.h
+END
+ex_adpcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/306010/trunk/codecs/ex_adpcm.h
+END
+ex_speex.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/306010/trunk/codecs/ex_speex.h
+END
+ex_g726.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/306010/trunk/codecs/ex_g726.h
+END
+ex_gsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/306010/trunk/codecs/ex_gsm.h
+END
+log2comp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/375182/trunk/codecs/log2comp.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/375007/trunk/codecs/Makefile
+END
+codec_ulaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/328259/trunk/codecs/codec_ulaw.c
+END
+codec_resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/362307/trunk/codecs/codec_resample.c
+END
+codec_ilbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/370407/trunk/codecs/codec_ilbc.c
+END
+codec_dahdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/377384/trunk/codecs/codec_dahdi.c
+END
+ex_ulaw.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/306010/trunk/codecs/ex_ulaw.h
+END
+ex_ilbc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/306257/trunk/codecs/ex_ilbc.h
+END

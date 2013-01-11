@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/369677/trunk/res/pjproject/pjsip/include
+END
+pjsua.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsua.h
+END
+pjsip.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip.h
+END
+pjsip_auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip_auth.h
+END
+pjsip_ua.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip_ua.h
+END
+pjsip_simple.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip_simple.h
+END

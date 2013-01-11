@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/373384/trunk/codecs/speex
+END
+resample_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/308582/trunk/codecs/speex/resample_sse.h
+END
+resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/308582/trunk/codecs/speex/resample.c
+END
+fixed_generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/308582/trunk/codecs/speex/fixed_generic.h
+END
+arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/308582/trunk/codecs/speex/arch.h
+END
+speex_resampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/373384/trunk/codecs/speex/speex_resampler.h
+END
+stack_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/308582/trunk/codecs/speex/stack_alloc.h
+END

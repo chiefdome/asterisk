@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369677/trunk/res/pjproject/pjmedia/include/pjmedia-codec
+END
+amr_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/amr_helper.h
+END
+g722.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/g722.h
+END
+audio_codecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/audio_codecs.h
+END
+g7221_sdp_match.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/g7221_sdp_match.h
+END
+speex.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/speex.h
+END
+gsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/gsm.h
+END
+ffmpeg_vid_codecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/ffmpeg_vid_codecs.h
+END
+opencore_amrnb.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/opencore_amrnb.h
+END
+amr_sdp_match.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/amr_sdp_match.h
+END
+l16.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/l16.h
+END
+g7221.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/g7221.h
+END
+config_auto.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/config_auto.h.in
+END
+h263_packetizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/h263_packetizer.h
+END
+h264_packetizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/h264_packetizer.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/types.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/config.h
+END
+passthrough.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/passthrough.h
+END
+ipp_codecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/ipp_codecs.h
+END
+ilbc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec/ilbc.h
+END

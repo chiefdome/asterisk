@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/tests/pjsua/scripts-sipp
+END
+uas.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas.xml
+END
+uas-answer-200-update-without-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-answer-200-update-without-sdp.xml
+END
+uas-timer-reinvite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-timer-reinvite.xml
+END
+uas-answer-180-multiple-fmts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-answer-180-multiple-fmts.xml
+END
+uas-subscribe-multipart-notify.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-subscribe-multipart-notify.xml
+END
+uas-forked-200.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-forked-200.xml
+END
+uas-subscribe-late-notify.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-subscribe-late-notify.xml
+END
+uas-forked-100rel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-forked-100rel.xml
+END
+uas-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-template.xml
+END
+strict-route.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/strict-route.xml
+END
+uac-inv-multiple-require.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uac-inv-multiple-require.xml
+END
+inv_401_retry_after_100.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/inv_401_retry_after_100.xml
+END
+uas-reinv-and-ack(same-branch)-without-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-reinv-and-ack(same-branch)-without-sdp.xml
+END
+uas-cancel-no-final.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-cancel-no-final.xml
+END
+uas-422-then-200-bad-se.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-422-then-200-bad-se.xml
+END
+uac-reinvite-port-0-bad-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uac-reinvite-port-0-bad-sdp.xml
+END
+uac-inv-and-ack-without-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uac-inv-and-ack-without-sdp.xml
+END
+uac-ticket-1148.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uac-ticket-1148.xml
+END
+uas-answer-180-multiple-fmts-support-update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-answer-180-multiple-fmts-support-update.xml
+END
+uas-timer-update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-timer-update.xml
+END
+uas-auth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-auth.xml
+END
+uac-bad-ack.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uac-bad-ack.xml
+END
+uas-reinv-and-ack-without-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-reinv-and-ack-without-sdp.xml
+END
+uas-answer-200-reinvite-without-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-answer-200-reinvite-without-sdp.xml
+END
+uac-message-no-body.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uac-message-no-body.xml
+END
+uas-reinv-no-media.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-reinv-no-media.xml
+END
+uas-reinv-glare.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-reinv-glare.xml
+END
+uac-options.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uac-options.xml
+END
+uas-answer-200-inv-without-sdp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-answer-200-inv-without-sdp.xml
+END
+uas-subscribe-notify-terminate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-subscribe-notify-terminate.xml
+END
+uas-subscribe-terminated-retry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-subscribe-terminated-retry.xml
+END
+uac-inv-two-media-but-one-disabled-no-rtpmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uac-inv-two-media-but-one-disabled-no-rtpmap.xml
+END
+uas-subscribe-refresh-481.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-subscribe-refresh-481.xml
+END
+uas-answer-200-multiple-fmts-support-update.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-answer-200-multiple-fmts-support-update.xml
+END
+uas-mwi-0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-mwi-0.xml
+END
+uas-early-bye.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-early-bye.xml
+END
+prack_fork.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/prack_fork.xml
+END
+uas-mwi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-mwi.xml
+END
+uas-invite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-invite.xml
+END
+uas-answer-200-multiple-fmts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uas-answer-200-multiple-fmts.xml
+END
+uac-reinvite-bad-via-branch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uac-reinvite-bad-via-branch.xml
+END
+uac-subscribe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-sipp/uac-subscribe.xml
+END

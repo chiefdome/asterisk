@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip-apps/src/pjsua
+END
+gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua/gui.h
+END
+main_rtems.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua/main_rtems.c
+END
+pjsua_app.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua/pjsua_app.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua/main.c
+END

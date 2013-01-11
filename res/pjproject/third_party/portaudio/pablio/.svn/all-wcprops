@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/portaudio/pablio
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/pablio/README.txt
+END
+pablio.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/pablio/pablio.h
+END
+test_w_saw.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/pablio/test_w_saw.c
+END
+pablio.def
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/pablio/pablio.def
+END
+test_rw_echo.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/pablio/test_rw_echo.c
+END
+pablio.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/pablio/pablio.c
+END
+test_rw.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/pablio/test_rw.c
+END
+test_w_saw8.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/pablio/test_w_saw8.c
+END

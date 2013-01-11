@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjmedia/src/pjmedia-videodev
+END
+qt_dev.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-videodev/qt_dev.m
+END
+avi_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-videodev/avi_dev.c
+END
+sdl_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-videodev/sdl_dev.c
+END
+colorbar_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-videodev/colorbar_dev.c
+END
+dshow_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-videodev/dshow_dev.c
+END
+dshowclasses.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-videodev/dshowclasses.cpp
+END
+ffmpeg_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-videodev/ffmpeg_dev.c
+END
+ios_dev.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-videodev/ios_dev.m
+END
+errno.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-videodev/errno.c
+END
+v4l2_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-videodev/v4l2_dev.c
+END
+videodev.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-videodev/videodev.c
+END
+sdl_dev_m.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-videodev/sdl_dev_m.m
+END

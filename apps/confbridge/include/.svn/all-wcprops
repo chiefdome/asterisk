@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/378002/trunk/apps/confbridge/include
+END
+confbridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/378002/trunk/apps/confbridge/include/confbridge.h
+END
+conf_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/374658/trunk/apps/confbridge/include/conf_state.h
+END

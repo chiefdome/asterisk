@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/tests/pjsua
+END
+runall.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/runall.py
+END
+mod_media_playrec.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/mod_media_playrec.py
+END
+mod_run.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/mod_run.py
+END
+run.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/run.py
+END
+mod_pesq.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/mod_pesq.py
+END
+mod_pres.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/mod_pres.py
+END
+mod_call.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/mod_call.py
+END
+inc_const.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/inc_const.py
+END
+inc_sdp.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/inc_sdp.py
+END
+mod_recvfrom.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/mod_recvfrom.py
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/README.TXT
+END
+inc_sip.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/inc_sip.py
+END
+inc_cfg.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/inc_cfg.py
+END
+config_site.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/config_site.py
+END
+mod_sendto.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/mod_sendto.py
+END

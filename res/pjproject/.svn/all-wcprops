@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/378585/trunk/res/pjproject
+END
+aconfigure
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/378585/trunk/res/pjproject/aconfigure
+END
+configure-legacy
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/configure-legacy
+END
+svn_add.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/svn_add.bat
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/INSTALL.txt
+END
+README-RTEMS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/README-RTEMS
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/config.guess
+END
+version.mak
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/version.mak
+END
+libpjproject.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/libpjproject.pc.in
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/config.sub
+END
+pkgconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pkgconfig.py
+END
+configure-iphone
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/configure-iphone
+END
+svn_pset
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/svn_pset
+END
+aconfigure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/378585/trunk/res/pjproject/aconfigure.ac
+END
+user.mak.sample
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/user.mak.sample
+END
+svn_pset.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/svn_pset.bat
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/COPYING
+END
+pjproject-vs8.sln
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjproject-vs8.sln
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/README.txt
+END
+build.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build.mak.in
+END
+c++-build.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/c++-build.mak
+END
+self-test.mak
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/self-test.mak
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/Makefile
+END
+svn_add
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/svn_add
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/install-sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/configure
+END

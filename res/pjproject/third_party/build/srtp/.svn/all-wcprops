@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/build/srtp
+END
+libsrtp.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/build/srtp/libsrtp.vcp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/build/srtp/Makefile
+END
+libsrtp.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/build/srtp/libsrtp.vcproj
+END
+srtp_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/build/srtp/srtp_config.h
+END

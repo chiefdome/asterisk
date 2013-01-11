@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/371754/trunk/res/pjproject/pjlib/build
+END
+os-rtems.mak
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/build/os-rtems.mak
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/build/cacert.pem
+END
+pjlib_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/build/pjlib_test.vcproj
+END
+pjlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/build/pjlib.vcproj
+END
+os-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/build/os-auto.mak.in
+END
+os-linux-kernel.mak
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/build/os-linux-kernel.mak
+END
+os-linux.mak
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/build/os-linux.mak
+END
+os-win32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/build/os-win32.mak
+END
+privkey.pem
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/build/privkey.pem
+END
+pjlib_samples.mak
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/build/pjlib_samples.mak
+END
+os-darwinos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/build/os-darwinos.mak
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/build/Makefile
+END
+os-sunos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/build/os-sunos.mak
+END

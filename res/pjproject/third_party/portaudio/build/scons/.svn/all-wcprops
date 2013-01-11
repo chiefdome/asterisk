@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/portaudio/build/scons
+END
+SConscript_opts
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/build/scons/SConscript_opts
+END
+SConscript_common
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/build/scons/SConscript_common
+END

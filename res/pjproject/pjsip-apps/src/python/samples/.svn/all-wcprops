@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip-apps/src/python/samples
+END
+registration.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/python/samples/registration.py
+END
+call.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/python/samples/call.py
+END
+presence.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/python/samples/presence.py
+END
+simplecall.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/python/samples/simplecall.py
+END

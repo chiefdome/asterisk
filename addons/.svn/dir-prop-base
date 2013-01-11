@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 83
+*.a
+*.d
+*.eo
+*.eoo
+*.i
+*.makeopts
+*.moduleinfo
+*.s
+*.so
+*.exports
+modules.link
+mp3
+
+END

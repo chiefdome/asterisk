@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjlib-util/build/wince-evc4
+END
+pjlib_util_wince.vcw
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib-util/build/wince-evc4/pjlib_util_wince.vcw
+END
+pjlib_util_test_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib-util/build/wince-evc4/pjlib_util_test_wince.vcp
+END
+pjlib_util_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib-util/build/wince-evc4/pjlib_util_wince.vcp
+END

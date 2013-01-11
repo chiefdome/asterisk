@@ -1,0 +1,101 @@
+10
+
+dir
+378911
+http://svn.asterisk.org/svn/asterisk/trunk/res/pjproject/third_party
+http://svn.asterisk.org/svn/asterisk
+
+
+
+2012-09-07T21:04:48.307414Z
+372612
+dlee
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+f38db490-d61c-443f-a65b-d21fe96a405b
+
+BaseClasses
+dir
+
+bin
+dir
+
+resample
+dir
+
+srtp
+dir
+
+ilbc
+dir
+
+README.txt
+file
+
+
+
+
+2013-01-11T10:58:33.261777Z
+62d2d909bb2842156b8fd76bd21a121f
+2012-07-01T17:28:57.972390Z
+369517
+file
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+407
+
+build
+dir
+
+mp3
+dir
+
+milenage
+dir
+
+g7221
+dir
+
+speex
+dir
+
+gsm
+dir
+
+lib
+dir
+
+portaudio
+dir
+

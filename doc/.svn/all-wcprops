@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/asterisk/!svn/ver/373384/trunk/doc
+END
+CODING-GUIDELINES
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/371964/trunk/doc/CODING-GUIDELINES
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/373384/trunk/doc/README.txt
+END
+asterisk.8
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/331144/trunk/doc/asterisk.8
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/280741/trunk/doc/Makefile
+END
+api-1.6.2-changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/164976/trunk/doc/api-1.6.2-changes.txt
+END
+IAX2-security.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/216009/trunk/doc/IAX2-security.pdf
+END
+api-1.6.0-changes.odt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/118178/trunk/doc/api-1.6.0-changes.odt
+END
+appdocsxml.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/370278/trunk/doc/appdocsxml.dtd
+END
+IAX2-security.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/216264/trunk/doc/IAX2-security.txt
+END
+asterisk.sgml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/331141/trunk/doc/asterisk.sgml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/327246/trunk/utils/db1-ast/mpool
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/mpool/README
+END
+mpool.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/mpool/mpool.c
+END

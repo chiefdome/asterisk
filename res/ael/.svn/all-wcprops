@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/asterisk/!svn/ver/370655/trunk/res/ael
+END
+ael.tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/360359/trunk/res/ael/ael.tab.h
+END
+ael.flex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/366126/trunk/res/ael/ael.flex
+END
+pval.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/370655/trunk/res/ael/pval.c
+END
+ael.tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/360359/trunk/res/ael/ael.tab.c
+END
+ael.y
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/272260/trunk/res/ael/ael.y
+END
+ael_lex.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/369940/trunk/res/ael/ael_lex.c
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/asterisk/!svn/ver/376345/trunk/utils
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/376341/trunk/utils/Makefile
+END
+frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/9991/trunk/utils/frame.h
+END
+astman.1
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/9991/trunk/utils/astman.1
+END
+ael_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/358812/trunk/utils/ael_main.c
+END
+extconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/376345/trunk/utils/extconf.c
+END
+streamplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/328259/trunk/utils/streamplayer.c
+END
+clicompat.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/92103/trunk/utils/clicompat.c
+END
+check_expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/328259/trunk/utils/check_expr.c
+END
+refcounter.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/373384/trunk/utils/refcounter.c
+END
+expr2.testinput
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/179973/trunk/utils/expr2.testinput
+END
+muted.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/375008/trunk/utils/muted.c
+END
+utils.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/376341/trunk/utils/utils.xml
+END
+astman.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/359118/trunk/utils/astman.c
+END
+smsq.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/328259/trunk/utils/smsq.c
+END
+astdb2sqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/369013/trunk/utils/astdb2sqlite3.c
+END
+astcanary.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/328259/trunk/utils/astcanary.c
+END
+astdb2bdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/369013/trunk/utils/astdb2bdb.c
+END
+conf2ael.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/358812/trunk/utils/conf2ael.c
+END
+frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/211539/trunk/utils/frame.c
+END
+stereorize.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/328259/trunk/utils/stereorize.c
+END

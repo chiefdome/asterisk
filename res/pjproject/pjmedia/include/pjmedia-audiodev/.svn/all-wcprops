@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjmedia/include/pjmedia-audiodev
+END
+audiodev.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-audiodev/audiodev.h
+END
+audiotest.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-audiodev/audiotest.h
+END
+audiodev_imp.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-audiodev/audiodev_imp.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-audiodev/config.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-audiodev/errno.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/portaudio/src/hostapi/wdmks
+END
+pa_win_wdmks.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/hostapi/wdmks/pa_win_wdmks.c
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/hostapi/wdmks/readme.txt
+END

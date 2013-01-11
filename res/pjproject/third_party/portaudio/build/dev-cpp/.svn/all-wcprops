@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/portaudio/build/dev-cpp
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/build/dev-cpp/readme.txt
+END
+portaudio-dll.dev
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/build/dev-cpp/portaudio-dll.dev
+END
+Makefile-static
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/build/dev-cpp/Makefile-static
+END
+Makefile-dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/build/dev-cpp/Makefile-dll
+END
+portaudio-static.dev
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/build/dev-cpp/portaudio-static.dev
+END

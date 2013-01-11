@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/asterisk/!svn/ver/378384/trunk/addons
+END
+chan_ooh323.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/306010/trunk/addons/chan_ooh323.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/375007/trunk/addons/Makefile
+END
+ooh323cDriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/369613/trunk/addons/ooh323cDriver.c
+END
+cdr_mysql.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/377506/trunk/addons/cdr_mysql.c
+END
+chan_mobile.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/375009/trunk/addons/chan_mobile.c
+END
+app_saycountpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/352348/trunk/addons/app_saycountpl.c
+END
+ooh323cDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/308243/trunk/addons/ooh323cDriver.h
+END
+res_config_mysql.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/376660/trunk/addons/res_config_mysql.c
+END
+app_mysql.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/378384/trunk/addons/app_mysql.c
+END
+chan_ooh323.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/371091/trunk/addons/chan_ooh323.c
+END
+format_mp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/366298/trunk/addons/format_mp3.c
+END

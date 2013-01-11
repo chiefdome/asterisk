@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/tests/pjsua/tools
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/tools/Makefile
+END
+cmp_wav.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/tools/cmp_wav.c
+END

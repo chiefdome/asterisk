@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip-apps/src/ipjsystest/Classes
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsystest/Classes/RootViewController.h
+END
+ipjsystestAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsystest/Classes/ipjsystestAppDelegate.m
+END
+TestViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsystest/Classes/TestViewController.m
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsystest/Classes/RootViewController.m
+END
+ipjsystestAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsystest/Classes/ipjsystestAppDelegate.h
+END
+TestViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsystest/Classes/TestViewController.h
+END

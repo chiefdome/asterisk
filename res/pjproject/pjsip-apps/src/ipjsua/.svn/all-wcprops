@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip-apps/src/ipjsua
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsua/MainWindow.xib
+END
+ipjsua-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsua/ipjsua-Info.plist
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsua/main.m
+END
+ipjsua_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsua/ipjsua_Prefix.pch
+END
+config.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsua/config.cfg
+END
+SecondView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsua/SecondView.xib
+END

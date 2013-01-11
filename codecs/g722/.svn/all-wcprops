@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/327246/trunk/codecs/g722
+END
+g722_encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/194722/trunk/codecs/g722/g722_encode.c
+END
+g722_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/194722/trunk/codecs/g722/g722_decode.c
+END
+g722.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/48959/trunk/codecs/g722/g722.h
+END

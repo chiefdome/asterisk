@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 45
+*.mak
+*.depend
+*gnu
+config.log
+config.status
+
+END

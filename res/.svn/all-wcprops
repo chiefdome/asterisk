@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/asterisk/!svn/ver/378593/trunk/res
+END
+res_calendar.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/378322/trunk/res/res_calendar.c
+END
+res_xmpp.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/369769/trunk/res/res_xmpp.exports.in
+END
+res_snmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/375003/trunk/res/res_snmp.c
+END
+res_smdi.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/255906/trunk/res/res_smdi.exports.in
+END
+res_calendar_caldav.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/366917/trunk/res/res_calendar_caldav.c
+END
+res_http_post.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/362307/trunk/res/res_http_post.c
+END
+res_jabber.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/378322/trunk/res/res_jabber.c
+END
+res_http_websocket.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/376562/trunk/res/res_http_websocket.c
+END
+res_format_attr_h264.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/373414/trunk/res/res_format_attr_h264.c
+END
+res_agi.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/255906/trunk/res/res_agi.exports.in
+END
+res_rtp_multicast.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/373553/trunk/res/res_rtp_multicast.c
+END
+res_odbc.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/255906/trunk/res/res_odbc.exports.in
+END
+res_timing_timerfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/375896/trunk/res/res_timing_timerfd.c
+END
+res_realtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/342871/trunk/res/res_realtime.c
+END
+res_format_attr_silk.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/370055/trunk/res/res_format_attr_silk.c
+END
+res_security_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/328259/trunk/res/res_security_log.c
+END
+res_clioriginate.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/370951/trunk/res/res_clioriginate.c
+END
+res_rtp_asterisk.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/378557/trunk/res/res_rtp_asterisk.c
+END
+res_calendar_icalendar.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/366917/trunk/res/res_calendar_icalendar.c
+END
+res_calendar_exchange.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/378000/trunk/res/res_calendar_exchange.c
+END
+res_config_pgsql.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/375003/trunk/res/res_config_pgsql.c
+END
+res_crypto.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/373330/trunk/res/res_crypto.c
+END
+res_adsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/369326/trunk/res/res_adsi.c
+END
+res_ael_share.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/328259/trunk/res/res_ael_share.c
+END
+res_monitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/366169/trunk/res/res_monitor.c
+END
+res_srtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/378593/trunk/res/res_srtp.c
+END
+res_config_curl.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/373330/trunk/res/res_config_curl.c
+END
+res_timing_pthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/375896/trunk/res/res_timing_pthread.c
+END
+res_corosync.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/370535/trunk/res/res_corosync.c
+END
+res_stun_monitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/369681/trunk/res/res_stun_monitor.c
+END
+res_fax_spandsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/375896/trunk/res/res_fax_spandsp.c
+END
+res_timing_kqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/375896/trunk/res/res_timing_kqueue.c
+END
+res_ael_share.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/255906/trunk/res/res_ael_share.exports.in
+END
+res_pktccops.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/255906/trunk/res/res_pktccops.exports.in
+END
+res_monitor.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/255906/trunk/res/res_monitor.exports.in
+END
+res_timing_dahdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/375896/trunk/res/res_timing_dahdi.c
+END
+res_phoneprov.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/375003/trunk/res/res_phoneprov.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/375003/trunk/res/Makefile
+END
+res_musiconhold.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/375896/trunk/res/res_musiconhold.c
+END
+res_format_attr_h263.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/370060/trunk/res/res_format_attr_h263.c
+END
+res_xmpp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/378412/trunk/res/res_xmpp.c
+END
+res_pktccops.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/350791/trunk/res/res_pktccops.c
+END
+res_config_sqlite.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/375003/trunk/res/res_config_sqlite.c
+END
+res_format_attr_celt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/370055/trunk/res/res_format_attr_celt.c
+END
+res_smdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/375003/trunk/res/res_smdi.c
+END
+res_config_odbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/368751/trunk/res/res_config_odbc.c
+END
+res_calendar.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/255906/trunk/res/res_calendar.exports.in
+END
+res_agi.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/374429/trunk/res/res_agi.c
+END
+res_curl.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/375003/trunk/res/res_curl.c
+END
+res_fax.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/264953/trunk/res/res_fax.exports.in
+END
+res_config_ldap.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/378543/trunk/res/res_config_ldap.c
+END
+res_crypto.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/278538/trunk/res/res_crypto.exports.in
+END
+res_speech.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/374096/trunk/res/res_speech.c
+END
+res_clialiases.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/377973/trunk/res/res_clialiases.c
+END
+res_config_sqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/375003/trunk/res/res_config_sqlite3.c
+END
+res_jabber.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/346953/trunk/res/res_jabber.exports.in
+END
+res_http_websocket.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/375560/trunk/res/res_http_websocket.exports.in
+END
+res_limit.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/375003/trunk/res/res_limit.c
+END
+res_fax.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/377658/trunk/res/res_fax.c
+END
+res_srtp.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/268894/trunk/res/res_srtp.exports.in
+END
+res_convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/328259/trunk/res/res_convert.c
+END
+res_mutestream.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/359942/trunk/res/res_mutestream.c
+END
+res_calendar_ews.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/375533/trunk/res/res_calendar_ews.c
+END
+res_speech.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/255906/trunk/res/res_speech.exports.in
+END
+res_odbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/375003/trunk/res/res_odbc.c
+END

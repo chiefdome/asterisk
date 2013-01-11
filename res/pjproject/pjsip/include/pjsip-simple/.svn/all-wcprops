@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip/include/pjsip-simple
+END
+pidf.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip-simple/pidf.h
+END
+evsub.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip-simple/evsub.h
+END
+presence.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip-simple/presence.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip-simple/types.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip-simple/errno.h
+END
+publish.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip-simple/publish.h
+END
+evsub_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip-simple/evsub_msg.h
+END
+iscomposing.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip-simple/iscomposing.h
+END
+xpidf.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip-simple/xpidf.h
+END
+mwi.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip-simple/mwi.h
+END
+rpid.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/include/pjsip-simple/rpid.h
+END

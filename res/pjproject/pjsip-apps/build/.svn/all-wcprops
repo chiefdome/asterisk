@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip-apps/build
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/Makefile
+END
+Samples-vc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/Samples-vc.mak
+END
+pjsua.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/pjsua.vcproj
+END
+python_pjsua.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/python_pjsua.vcproj
+END
+os-win32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/os-win32.mak
+END
+get-footprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/get-footprint.py
+END
+vidgui.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/vidgui.vcproj
+END
+sample_debug.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/sample_debug.vcproj
+END
+libpjproject.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/libpjproject.vcproj
+END
+Footprint.mak
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/Footprint.mak
+END
+py_pjsua.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/py_pjsua.vcproj
+END
+samples.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/samples.vcproj
+END
+pjsystest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/pjsystest.vcproj
+END
+Samples.mak
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/Samples.mak
+END
+dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/build/dummy.c
+END

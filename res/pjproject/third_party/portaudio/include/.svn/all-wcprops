@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/portaudio/include
+END
+pa_linux_alsa.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/include/pa_linux_alsa.h
+END
+pa_win_wmme.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/include/pa_win_wmme.h
+END
+pa_win_ds.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/include/pa_win_ds.h
+END
+portaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/include/portaudio.h
+END
+pa_jack.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/include/pa_jack.h
+END
+pa_mac_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/include/pa_mac_core.h
+END
+pa_win_waveformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/include/pa_win_waveformat.h
+END
+pa_asio.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/include/pa_asio.h
+END

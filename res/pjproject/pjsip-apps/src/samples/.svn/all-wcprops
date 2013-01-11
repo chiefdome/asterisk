@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip-apps/src/samples
+END
+siprtp_report.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/siprtp_report.c
+END
+pjsip-perf.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/pjsip-perf.c
+END
+sipstateless.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/sipstateless.c
+END
+playsine.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/playsine.c
+END
+footprint.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/footprint.c
+END
+confbench.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/confbench.c
+END
+proxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/proxy.h
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/debug.c
+END
+stateful_proxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/stateful_proxy.c
+END
+vid_streamutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/vid_streamutil.c
+END
+resampleplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/resampleplay.c
+END
+main_rtems.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/main_rtems.c
+END
+latency.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/latency.c
+END
+tonegen.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/tonegen.c
+END
+aviplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/aviplay.c
+END
+icedemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/icedemo.c
+END
+playfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/playfile.c
+END
+level.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/level.c
+END
+auddemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/auddemo.c
+END
+simpleua.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/simpleua.c
+END
+siprtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/siprtp.c
+END
+pcaputil.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/pcaputil.c
+END
+encdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/encdec.c
+END
+strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/strerror.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/util.h
+END
+invtester.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/invtester.c
+END
+httpdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/httpdemo.c
+END
+confsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/confsample.c
+END
+aectest.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/aectest.c
+END
+streamutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/streamutil.c
+END
+sipecho.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/sipecho.c
+END
+simple_pjsua.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/simple_pjsua.c
+END
+mix.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/mix.c
+END
+stereotest.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/stereotest.c
+END
+jbsim.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/jbsim.c
+END
+stateless_proxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/stateless_proxy.c
+END
+recfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/samples/recfile.c
+END

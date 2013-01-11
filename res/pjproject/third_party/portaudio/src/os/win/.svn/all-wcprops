@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/portaudio/src/os/win
+END
+pa_win_wdmks_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/os/win/pa_win_wdmks_utils.c
+END
+pa_x86_plain_converters.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/os/win/pa_x86_plain_converters.c
+END
+pa_win_hostapis.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/os/win/pa_win_hostapis.c
+END
+pa_win_wdmks_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/os/win/pa_win_wdmks_utils.h
+END
+pa_x86_plain_converters.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/os/win/pa_x86_plain_converters.h
+END
+pa_win_waveformat.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/os/win/pa_win_waveformat.c
+END
+pa_win_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/os/win/pa_win_util.c
+END

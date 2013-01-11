@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/370481/trunk/main/editline
+END
+history.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/history.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/259439/trunk/main/editline/Makefile.in
+END
+refresh.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/refresh.h
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/370481/trunk/main/editline/configure.in
+END
+search.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/search.c
+END
+hist.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/hist.c
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/search.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/README
+END
+hist.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/hist.h
+END
+editline.3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/editline.3
+END
+vi.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/vi.c
+END
+sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/250303/trunk/main/editline/sys.h
+END
+readline.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/370481/trunk/main/editline/readline.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/INSTALL
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/CHANGES
+END
+emacs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/emacs.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/common.c
+END
+readline.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/370481/trunk/main/editline/readline.h
+END
+makelist.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/225956/trunk/main/editline/makelist.in
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/install-sh
+END
+el.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/el.c
+END
+el.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/el.h
+END
+term.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/366917/trunk/main/editline/term.c
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/config.guess
+END
+parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/parse.c
+END
+tokenizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/366917/trunk/main/editline/tokenizer.c
+END
+read.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/163762/trunk/main/editline/read.c
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/config.sub
+END
+term.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/term.h
+END
+map.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/map.c
+END
+parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/parse.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/config.h.in
+END
+tokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/tokenizer.h
+END
+read.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/read.h
+END
+tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/tty.c
+END
+prompt.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/prompt.c
+END
+histedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/histedit.h
+END
+map.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/map.h
+END
+sig.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/sig.c
+END
+tty.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/tty.h
+END
+chared.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/chared.c
+END
+prompt.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/prompt.h
+END
+PLATFORMS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/PLATFORMS
+END
+sig.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/sig.h
+END
+key.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/key.c
+END
+chared.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/chared.h
+END
+editrc.5
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/editrc.5
+END
+key.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/key.h
+END
+refresh.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/55329/trunk/main/editline/refresh.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/370481/trunk/main/editline/configure
+END

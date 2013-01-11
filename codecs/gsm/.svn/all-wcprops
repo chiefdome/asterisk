@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/375291/trunk/codecs/gsm
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/COPYRIGHT
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/361968/trunk/codecs/gsm/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/README
+END
+libgsm.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/13674/trunk/codecs/gsm/libgsm.vcproj
+END

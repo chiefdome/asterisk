@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjmedia/src/pjmedia-codec
+END
+amr_sdp_match.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/amr_sdp_match.c
+END
+l16.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/l16.c
+END
+g7221.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/g7221.c
+END
+h263_packetizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/h263_packetizer.c
+END
+h264_packetizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/h264_packetizer.c
+END
+passthrough.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/passthrough.c
+END
+ipp_codecs.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/ipp_codecs.c
+END
+ilbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/ilbc.c
+END
+speex_codec.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/speex_codec.c
+END
+g722.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/g722.c
+END
+audio_codecs.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/audio_codecs.c
+END
+g7221_sdp_match.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/g7221_sdp_match.c
+END
+gsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/gsm.c
+END
+ffmpeg_vid_codecs.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/ffmpeg_vid_codecs.c
+END
+opencore_amrnb.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/src/pjmedia-codec/opencore_amrnb.c
+END

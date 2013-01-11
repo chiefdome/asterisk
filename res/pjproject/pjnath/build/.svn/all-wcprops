@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/371754/trunk/res/pjproject/pjnath/build
+END
+pjturn_client.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjnath/build/pjturn_client.vcproj
+END
+pjnath_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjnath/build/pjnath_test.vcproj
+END
+pjnath.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjnath/build/pjnath.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjnath/build/Makefile
+END
+pjstun_srv_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjnath/build/pjstun_srv_test.vcproj
+END

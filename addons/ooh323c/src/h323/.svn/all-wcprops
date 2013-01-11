@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/365161/trunk/addons/ooh323c/src/h323
+END
+H323-MESSAGESEnc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/365161/trunk/addons/ooh323c/src/h323/H323-MESSAGESEnc.c
+END
+MULTIMEDIA-SYSTEM-CONTROL.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/204413/trunk/addons/ooh323c/src/h323/MULTIMEDIA-SYSTEM-CONTROL.c
+END
+MULTIMEDIA-SYSTEM-CONTROL.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/204413/trunk/addons/ooh323c/src/h323/MULTIMEDIA-SYSTEM-CONTROL.h
+END
+H235-SECURITY-MESSAGES.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/204413/trunk/addons/ooh323c/src/h323/H235-SECURITY-MESSAGES.h
+END
+H323-MESSAGESDec.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/227898/trunk/addons/ooh323c/src/h323/H323-MESSAGESDec.c
+END
+MULTIMEDIA-SYSTEM-CONTROLEnc.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/204413/trunk/addons/ooh323c/src/h323/MULTIMEDIA-SYSTEM-CONTROLEnc.c
+END
+H235-SECURITY-MESSAGESEnc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/204413/trunk/addons/ooh323c/src/h323/H235-SECURITY-MESSAGESEnc.c
+END
+H323-MESSAGES.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/204413/trunk/addons/ooh323c/src/h323/H323-MESSAGES.c
+END
+MULTIMEDIA-SYSTEM-CONTROLDec.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/227898/trunk/addons/ooh323c/src/h323/MULTIMEDIA-SYSTEM-CONTROLDec.c
+END
+H235-SECURITY-MESSAGESDec.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/227898/trunk/addons/ooh323c/src/h323/H235-SECURITY-MESSAGESDec.c
+END
+H323-MESSAGES.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/365161/trunk/addons/ooh323c/src/h323/H323-MESSAGES.h
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/375192/trunk/build_tools
+END
+make_version
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/375192/trunk/build_tools/make_version
+END
+get_makeopts
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/139915/trunk/build_tools/get_makeopts
+END
+make_version_c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/234700/trunk/build_tools/make_version_c
+END
+make_linker_eo_script
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/56092/trunk/build_tools/make_linker_eo_script
+END
+sha1sum-sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/263905/trunk/build_tools/sha1sum-sh
+END
+find_missing_support_level
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369013/trunk/build_tools/find_missing_support_level
+END
+cflags.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/371508/trunk/build_tools/cflags.xml
+END
+get_documentation.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/369346/trunk/build_tools/get_documentation.py
+END
+mkpkgconfig
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/353317/trunk/build_tools/mkpkgconfig
+END
+get_moduleinfo
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/139915/trunk/build_tools/get_moduleinfo
+END
+menuselect-deps.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/370481/trunk/build_tools/menuselect-deps.in
+END
+make_build_h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/260802/trunk/build_tools/make_build_h
+END
+embed_modules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/341024/trunk/build_tools/embed_modules.xml
+END
+post_process_documentation.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/asterisk/!svn/ver/369346/trunk/build_tools/post_process_documentation.py
+END
+make_sample_voicemail
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/299908/trunk/build_tools/make_sample_voicemail
+END
+prep_tarball
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/343790/trunk/build_tools/prep_tarball
+END
+get_documentation
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/226453/trunk/build_tools/get_documentation
+END
+make_buildopts_h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/157600/trunk/build_tools/make_buildopts_h
+END
+make_linker_version_script
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/256428/trunk/build_tools/make_linker_version_script
+END
+make_defaults_h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/353317/trunk/build_tools/make_defaults_h
+END
+cflags-devmode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/370881/trunk/build_tools/cflags-devmode.xml
+END

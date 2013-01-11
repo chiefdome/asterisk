@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/srtp/crypto/kernel
+END
+err.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/crypto/kernel/err.c
+END
+key.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/crypto/kernel/key.c
+END
+alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/crypto/kernel/alloc.c
+END
+crypto_kernel.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/crypto/kernel/crypto_kernel.c
+END

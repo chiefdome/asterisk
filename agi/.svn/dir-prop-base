@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 51
+*.i
+*.s
+eagi-test
+eagi-sphinx-test
+*.d
+strcompat.c
+
+END

@@ -1,0 +1,40 @@
+10
+
+dir
+378911
+http://svn.asterisk.org/svn/asterisk/trunk/res/pjproject/pjnath/src
+http://svn.asterisk.org/svn/asterisk
+
+
+
+2012-07-06T14:32:30.773824Z
+369703
+file
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+f38db490-d61c-443f-a65b-d21fe96a405b
+
+pjturn-srv
+dir
+
+pjturn-client
+dir
+
+pjnath-test
+dir
+
+pjnath
+dir
+

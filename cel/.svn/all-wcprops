@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/asterisk/!svn/ver/375007/trunk/cel
+END
+cel_odbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/373384/trunk/cel/cel_odbc.c
+END
+cel_radius.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/373330/trunk/cel/cel_radius.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/375007/trunk/cel/Makefile
+END
+cel_custom.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/337975/trunk/cel/cel_custom.c
+END
+cel_manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/353648/trunk/cel/cel_manager.c
+END
+cel_tds.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/353648/trunk/cel/cel_tds.c
+END
+cel_sqlite3_custom.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/373384/trunk/cel/cel_sqlite3_custom.c
+END
+cel_pgsql.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/373330/trunk/cel/cel_pgsql.c
+END

@@ -1,0 +1,73 @@
+10
+
+dir
+378911
+http://svn.asterisk.org/svn/asterisk/trunk/res/pjproject/pjsip-apps/src
+http://svn.asterisk.org/svn/asterisk
+
+
+
+2012-07-05T19:32:29.264101Z
+369673
+rmudgett
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+f38db490-d61c-443f-a65b-d21fe96a405b
+
+python
+dir
+
+ipjsystest
+dir
+
+pjsua
+dir
+
+vidgui
+dir
+
+symbian_ua
+dir
+
+py_pjsua
+dir
+
+confbot
+dir
+
+symbian_ua_gui
+dir
+
+ipjsua
+dir
+
+samples
+dir
+
+pjsua_wince
+dir
+
+pjsystest
+dir
+
+3rdparty_media_sample
+dir
+
+symsndtest
+dir
+
+pocketpj
+dir
+

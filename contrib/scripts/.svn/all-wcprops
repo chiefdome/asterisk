@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/378259/trunk/contrib/scripts
+END
+vmail.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/143737/trunk/contrib/scripts/vmail.cgi
+END
+autosupport.8
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/349506/trunk/contrib/scripts/autosupport.8
+END
+valgrind_compare
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/350130/trunk/contrib/scripts/valgrind_compare
+END
+astcli
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/125583/trunk/contrib/scripts/astcli
+END
+retrieve_extensions_from_sql.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/9991/trunk/contrib/scripts/retrieve_extensions_from_sql.pl
+END
+safe_asterisk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/348698/trunk/contrib/scripts/safe_asterisk
+END
+retrieve_extensions_from_mysql.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/9991/trunk/contrib/scripts/retrieve_extensions_from_mysql.pl
+END
+import-cdr-csv-mysql.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/317916/trunk/contrib/scripts/import-cdr-csv-mysql.pl
+END
+ast_tls_cert
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/375328/trunk/contrib/scripts/ast_tls_cert
+END
+retrieve_sip_conf_from_mysql.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/9991/trunk/contrib/scripts/retrieve_sip_conf_from_mysql.pl
+END
+get_mp3_source.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/290027/trunk/contrib/scripts/get_mp3_source.sh
+END
+ast_grab_core
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/197824/trunk/contrib/scripts/ast_grab_core
+END
+astgenkey
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/9991/trunk/contrib/scripts/astgenkey
+END
+dbsep.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/253758/trunk/contrib/scripts/dbsep.cgi
+END
+loadtest.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/122234/trunk/contrib/scripts/loadtest.tcl
+END
+get_ilbc_source.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/asterisk/!svn/ver/351452/trunk/contrib/scripts/get_ilbc_source.sh
+END
+autosupport
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/349506/trunk/contrib/scripts/autosupport
+END
+agents.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/9991/trunk/contrib/scripts/agents.php
+END
+file.convert.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/326368/trunk/contrib/scripts/file.convert.sh
+END
+messages-expire.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/9991/trunk/contrib/scripts/messages-expire.pl
+END
+sip_nat_settings
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/168265/trunk/contrib/scripts/sip_nat_settings
+END
+install_prereq
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/378259/trunk/contrib/scripts/install_prereq
+END
+asterisk.logrotate
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/asterisk/!svn/ver/133400/trunk/contrib/scripts/asterisk.logrotate
+END
+managerproxy.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/9991/trunk/contrib/scripts/managerproxy.pl
+END
+safe_asterisk_restart
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/asterisk/!svn/ver/147266/trunk/contrib/scripts/safe_asterisk_restart
+END
+safe_asterisk.8
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/256704/trunk/contrib/scripts/safe_asterisk.8
+END
+README.messages-expire
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/9991/trunk/contrib/scripts/README.messages-expire
+END
+astgenkey.8
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/256704/trunk/contrib/scripts/astgenkey.8
+END
+asterisk.ldap-schema
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/229050/trunk/contrib/scripts/asterisk.ldap-schema
+END
+asterisk.ldif
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/292788/trunk/contrib/scripts/asterisk.ldif
+END
+voicemailpwcheck.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/275863/trunk/contrib/scripts/voicemailpwcheck.py
+END
+qview.pl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/9991/trunk/contrib/scripts/qview.pl
+END
+live_ast
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/370048/trunk/contrib/scripts/live_ast
+END
+lookup.agi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/9991/trunk/contrib/scripts/lookup.agi
+END

@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/361968/trunk/codecs/lpc10
+END
+lpfilt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/lpfilt.c
+END
+rcchk.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/rcchk.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/361968/trunk/codecs/lpc10/Makefile
+END
+mload.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/mload.c
+END
+lpcenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/lpcenc.c
+END
+vparms.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/vparms.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/9991/trunk/codecs/lpc10/README
+END
+dyptrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/316293/trunk/codecs/lpc10/dyptrk.c
+END
+lpcini.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/149637/trunk/codecs/lpc10/lpcini.c
+END
+f2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/9991/trunk/codecs/lpc10/f2c.h
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/random.c
+END
+ham84.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/ham84.c
+END
+chanwr.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/152809/trunk/codecs/lpc10/chanwr.c
+END
+lpc10.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/33398/trunk/codecs/lpc10/lpc10.h
+END
+placea.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/placea.c
+END
+tbdm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/tbdm.c
+END
+analys.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/analys.c
+END
+onset.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/onset.c
+END
+energy.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/energy.c
+END
+deemp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/deemp.c
+END
+lpcdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/lpcdec.c
+END
+median.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/median.c
+END
+ivfilt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/ivfilt.c
+END
+encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/encode.c
+END
+f2clib.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/9991/trunk/codecs/lpc10/f2clib.c
+END
+bsynz.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/bsynz.c
+END
+invert.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/invert.c
+END
+prepro.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/prepro.c
+END
+placev.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/placev.c
+END
+irc2pc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/irc2pc.c
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/decode.c
+END
+dcbias.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/dcbias.c
+END
+pitsyn.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/209554/trunk/codecs/lpc10/pitsyn.c
+END
+liblpc10.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/13675/trunk/codecs/lpc10/liblpc10.vcproj
+END
+difmag.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/difmag.c
+END
+voicin.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/voicin.c
+END
+hp100.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/hp100.c
+END
+preemp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/preemp.c
+END
+synths.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/45080/trunk/codecs/lpc10/synths.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/portaudio/src/os/unix
+END
+pa_unix_hostapis.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/os/unix/pa_unix_hostapis.c
+END
+pa_unix_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/os/unix/pa_unix_util.c
+END
+pa_unix_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/os/unix/pa_unix_util.h
+END

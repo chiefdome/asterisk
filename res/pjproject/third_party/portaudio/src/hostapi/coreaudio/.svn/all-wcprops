@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/portaudio/src/hostapi/coreaudio
+END
+pa_mac_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core.c
+END
+pa_mac_core_utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core_utilities.h
+END
+pa_mac_core_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core_internal.h
+END
+pa_mac_core_blocking.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core_blocking.c
+END
+pa_mac_core_utilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core_utilities.c
+END
+notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/hostapi/coreaudio/notes.txt
+END
+pa_mac_core_blocking.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core_blocking.h
+END
+pa_mac_core_old.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/hostapi/coreaudio/pa_mac_core_old.c
+END

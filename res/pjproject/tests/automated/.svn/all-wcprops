@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/tests/automated
+END
+prepare.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/automated/prepare.xml.template
+END
+configure.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/automated/configure.py
+END
+gnu-ipp.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/automated/gnu-ipp.xml.template
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/automated/README.txt
+END
+iphone.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/automated/iphone.xml.template
+END
+symbian.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/automated/symbian.xml.template
+END
+symbian-aps.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/automated/symbian-aps.xml.template
+END
+run_scenario.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/automated/run_scenario.py
+END
+msvc.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/automated/msvc.xml.template
+END
+run_continuous.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/automated/run_continuous.py
+END
+gnu.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/automated/gnu.xml.template
+END
+symbian-vas.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/automated/symbian-vas.xml.template
+END
+testvars.template
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/automated/testvars.template
+END

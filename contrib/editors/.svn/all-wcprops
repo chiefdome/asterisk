@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/368467/trunk/contrib/editors
+END
+ael.vim
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/180304/trunk/contrib/editors/ael.vim
+END
+asterisk.vim
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/368467/trunk/contrib/editors/asterisk.vim
+END
+asteriskvm.vim
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/180304/trunk/contrib/editors/asteriskvm.vim
+END

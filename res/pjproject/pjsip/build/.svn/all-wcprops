@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip/build
+END
+pjsip_core.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/build/pjsip_core.vcproj
+END
+os-rtems.mak
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/build/os-rtems.mak
+END
+pjsip_simple.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/build/pjsip_simple.vcproj
+END
+os-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/build/os-auto.mak.in
+END
+pjsip_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/build/pjsip_test.vcproj
+END
+pjsua_lib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/build/pjsua_lib.vcproj
+END
+pjsip_ua.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/build/pjsip_ua.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/build/Makefile
+END

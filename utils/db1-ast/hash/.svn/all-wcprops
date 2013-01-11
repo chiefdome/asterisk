@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/327246/trunk/utils/db1-ast/hash
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/hash/hash.h
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/hash/extern.h
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/hash/search.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/hash/README
+END
+hash_bigkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/hash/hash_bigkey.c
+END
+hsearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/hash/hsearch.c
+END
+hash_func.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/hash/hash_func.c
+END
+hash_buf.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/hash/hash_buf.c
+END
+hash_page.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/hash/hash_page.c
+END
+ndbm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/hash/ndbm.c
+END
+page.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/hash/page.h
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/hash/hash.c
+END
+hash_log2.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/hash/hash_log2.c
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip-apps/src/pjsua_wince
+END
+pjsua_wince.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua_wince/pjsua_wince.cpp
+END
+newres.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua_wince/newres.h
+END
+pjsua_wince.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua_wince/pjsua_wince.vcproj
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua_wince/StdAfx.cpp
+END
+pjsua_wince.rc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua_wince/pjsua_wince.rc
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua_wince/README.TXT
+END
+pjsua_wince.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua_wince/pjsua_wince.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua_wince/resource.h
+END
+pjsua_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua_wince/pjsua_wince.vcp
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua_wince/StdAfx.h
+END
+pjsua_wince.ico
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/pjsua_wince/pjsua_wince.ico
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui
+END
+symbian_ua_guiContainer.uidesign
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/symbian_ua_guiContainer.uidesign
+END
+application.uidesign
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/application.uidesign
+END
+symbian_ua_guiSettingItemList.uidesign
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/symbian_ua_guiSettingItemList.uidesign
+END

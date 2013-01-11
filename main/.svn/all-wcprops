@@ -1,0 +1,647 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/asterisk/!svn/ver/378889/trunk/main
+END
+ecdisa.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/360190/trunk/main/ecdisa.h
+END
+translate.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/378249/trunk/main/translate.c
+END
+jitterbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/369013/trunk/main/jitterbuf.c
+END
+aoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/377884/trunk/main/aoc.c
+END
+cel.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/377884/trunk/main/cel.c
+END
+poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/285269/trunk/main/poll.c
+END
+uuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/377846/trunk/main/uuid.c
+END
+netsock.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/369013/trunk/main/netsock.c
+END
+ast_expr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/369940/trunk/main/ast_expr2.c
+END
+term.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/369013/trunk/main/term.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/asterisk/!svn/ver/369013/trunk/main/io.c
+END
+srv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/369013/trunk/main/srv.c
+END
+format_cap.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/369013/trunk/main/format_cap.c
+END
+ast_expr2.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/369940/trunk/main/ast_expr2.h
+END
+privacy.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/369013/trunk/main/privacy.c
+END
+features.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/378374/trunk/main/features.c
+END
+http.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/378288/trunk/main/http.c
+END
+fskmodem_int.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/369013/trunk/main/fskmodem_int.c
+END
+logger.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/378854/trunk/main/logger.c
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/378322/trunk/main/event.c
+END
+astmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/377402/trunk/main/astmm.c
+END
+bridging.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/378840/trunk/main/bridging.c
+END
+udptl.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/378789/trunk/main/udptl.c
+END
+frame.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/370431/trunk/main/frame.c
+END
+dnsmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/377707/trunk/main/dnsmgr.c
+END
+threadstorage.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/370655/trunk/main/threadstorage.c
+END
+ast_expr2.y
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/360359/trunk/main/ast_expr2.y
+END
+xml.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/369013/trunk/main/xml.c
+END
+astfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/373384/trunk/main/astfd.c
+END
+taskprocessor.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/377975/trunk/main/taskprocessor.c
+END
+chanvars.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/369013/trunk/main/chanvars.c
+END
+cdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/377072/trunk/main/cdr.c
+END
+channel.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/378889/trunk/main/channel.c
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/377884/trunk/main/data.c
+END
+tcptls.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/375149/trunk/main/tcptls.c
+END
+manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/378374/trunk/main/manager.c
+END
+tdd.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/373330/trunk/main/tdd.c
+END
+framehook.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/369013/trunk/main/framehook.c
+END
+buildinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/152809/trunk/main/buildinfo.c
+END
+asterisk.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/368181/trunk/main/asterisk.exports.in
+END
+strcompat.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/370655/trunk/main/strcompat.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/378823/trunk/main/test.c
+END
+app.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/375311/trunk/main/app.c
+END
+config_options.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/374197/trunk/main/config_options.c
+END
+alaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/369013/trunk/main/alaw.c
+END
+dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/369013/trunk/main/dns.c
+END
+message.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/374612/trunk/main/message.c
+END
+asterisk.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/377846/trunk/main/asterisk.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/364462/trunk/main/md5.c
+END
+datastore.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/369013/trunk/main/datastore.c
+END
+sched.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/369013/trunk/main/sched.c
+END
+xmldoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/377512/trunk/main/xmldoc.c
+END
+format.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/377246/trunk/main/format.c
+END
+rtp_engine.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/378789/trunk/main/rtp_engine.c
+END
+ccss.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/378322/trunk/main/ccss.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/373330/trunk/main/sha1.c
+END
+slinfactory.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/369013/trunk/main/slinfactory.c
+END
+acl.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/374633/trunk/main/acl.c
+END
+autochan.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/369013/trunk/main/autochan.c
+END
+named_acl.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/377330/trunk/main/named_acl.c
+END
+enum.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/375182/trunk/main/enum.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/378377/trunk/main/config.c
+END
+fskmodem.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/369013/trunk/main/fskmodem.c
+END
+loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/378095/trunk/main/loader.c
+END
+ulaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/369013/trunk/main/ulaw.c
+END
+dial.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/369013/trunk/main/dial.c
+END
+hashtab.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/369013/trunk/main/hashtab.c
+END
+asterisk.dynamics
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/276490/trunk/main/asterisk.dynamics
+END
+ast_expr2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/373330/trunk/main/ast_expr2f.c
+END
+heap.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/369013/trunk/main/heap.c
+END
+abstract_jb.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/370387/trunk/main/abstract_jb.c
+END
+syslog.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/369013/trunk/main/syslog.c
+END
+cygload.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/360190/trunk/main/cygload.c
+END
+audiohook.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/373384/trunk/main/audiohook.c
+END
+sip_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/374849/trunk/main/sip_api.c
+END
+db.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/asterisk/!svn/ver/375770/trunk/main/db.c
+END
+dsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/375182/trunk/main/dsp.c
+END
+ast_expr2.fl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/362307/trunk/main/ast_expr2.fl
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/376589/trunk/main/lock.c
+END
+autoservice.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/369493/trunk/main/autoservice.c
+END
+stun.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/377884/trunk/main/stun.c
+END
+global_datastores.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/369013/trunk/main/global_datastores.c
+END
+security_events.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/376472/trunk/main/security_events.c
+END
+say.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/373776/trunk/main/say.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/378074/trunk/main/Makefile
+END
+channel_internal_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/378322/trunk/main/channel_internal_api.c
+END
+libasteriskssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/373080/trunk/main/libasteriskssl.c
+END
+devicestate.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/378322/trunk/main/devicestate.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/377977/trunk/main/utils.c
+END
+indications.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/377743/trunk/main/indications.c
+END
+format_pref.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/375662/trunk/main/format_pref.c
+END
+astobj2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/376575/trunk/main/astobj2.c
+END
+presencestate.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/369013/trunk/main/presencestate.c
+END
+cli.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/377077/trunk/main/cli.c
+END
+fixedjitterbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/369013/trunk/main/fixedjitterbuf.c
+END
+plc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/369013/trunk/main/plc.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/377884/trunk/main/file.c
+END
+callerid.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/373701/trunk/main/callerid.c
+END
+adsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/369392/trunk/main/adsi.c
+END
+image.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/377884/trunk/main/image.c
+END
+fixedjitterbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/360190/trunk/main/fixedjitterbuf.h
+END
+libasteriskssl.exports.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/353317/trunk/main/libasteriskssl.exports.in
+END
+timing.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/377884/trunk/main/timing.c
+END
+netsock2.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/369110/trunk/main/netsock2.c
+END
+pbx.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/asterisk/!svn/ver/377809/trunk/main/pbx.c
+END
+strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/373330/trunk/main/strings.c
+END
+fskmodem_float.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/369013/trunk/main/fskmodem_float.c
+END

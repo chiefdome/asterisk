@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/378585/trunk/res/pjproject/build
+END
+os-darwinos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/os-darwinos.mak
+END
+m-mpc860.mak
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/m-mpc860.mak
+END
+m-powerpc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/m-powerpc.mak
+END
+m-arm.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/m-arm.mak
+END
+os-rtems.mak
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/os-rtems.mak
+END
+os-palmos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/os-palmos.mak
+END
+host-win32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/host-win32.mak
+END
+os-linux.mak
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/os-linux.mak
+END
+m-m68k.mak
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/m-m68k.mak
+END
+m-alpha.mak
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/m-alpha.mak
+END
+cc-gcc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/cc-gcc.mak
+END
+os-win32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/os-win32.mak
+END
+m-i386.mak
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/m-i386.mak
+END
+os-sunos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/os-sunos.mak
+END
+m-x86_64.mak
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/m-x86_64.mak
+END
+common.mak
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/378585/trunk/res/pjproject/build/common.mak
+END
+rules.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/rules.mak
+END
+cc-vc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/cc-vc.mak
+END
+host-mingw.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/host-mingw.mak
+END
+os-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/asterisk/!svn/ver/370240/trunk/res/pjproject/build/os-auto.mak.in
+END
+os-linux-kernel.mak
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/os-linux-kernel.mak
+END
+host-unix.mak
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/host-unix.mak
+END
+cc-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/cc-auto.mak.in
+END
+m-sparc.mak
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/m-sparc.mak
+END
+m-auto.mak
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/build/m-auto.mak
+END

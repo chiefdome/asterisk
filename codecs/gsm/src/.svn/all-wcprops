@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/375291/trunk/codecs/gsm/src
+END
+gsm_implode.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/gsm_implode.c
+END
+gsm_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/201678/trunk/codecs/gsm/src/gsm_destroy.c
+END
+gsm_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/gsm_print.c
+END
+gsm_encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/gsm_encode.c
+END
+gsm_explode.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/gsm_explode.c
+END
+k6opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/k6opt.h
+END
+gsm_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/gsm_create.c
+END
+code.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/375291/trunk/codecs/gsm/src/code.c
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/82266/trunk/codecs/gsm/src/lpc.c
+END
+gsm_option.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/gsm_option.c
+END
+k6opt.s
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/361968/trunk/codecs/gsm/src/k6opt.s
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/decode.c
+END
+preprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/37298/trunk/codecs/gsm/src/preprocess.c
+END
+long_term.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/82266/trunk/codecs/gsm/src/long_term.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/debug.c
+END
+rpe.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/rpe.c
+END
+short_term.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/short_term.c
+END
+table.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/table.c
+END
+add.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/add.c
+END
+gsm_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/9991/trunk/codecs/gsm/src/gsm_decode.c
+END

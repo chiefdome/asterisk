@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/353552/trunk/contrib/init.d
+END
+rc.redhat.asterisk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/337117/trunk/contrib/init.d/rc.redhat.asterisk
+END
+org.asterisk.muted.plist
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/297822/trunk/contrib/init.d/org.asterisk.muted.plist
+END
+rc.gentoo.asterisk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/239270/trunk/contrib/init.d/rc.gentoo.asterisk
+END
+rc.mandriva.zaptel
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/135485/trunk/contrib/init.d/rc.mandriva.zaptel
+END
+rc.slackware.asterisk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/239270/trunk/contrib/init.d/rc.slackware.asterisk
+END
+etc_default_asterisk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/353552/trunk/contrib/init.d/etc_default_asterisk
+END
+rc.archlinux.asterisk
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/337910/trunk/contrib/init.d/rc.archlinux.asterisk
+END
+rc.suse.asterisk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/292630/trunk/contrib/init.d/rc.suse.asterisk
+END
+rc.mandriva.asterisk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/239270/trunk/contrib/init.d/rc.mandriva.asterisk
+END
+org.asterisk.asterisk.plist
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/297822/trunk/contrib/init.d/org.asterisk.asterisk.plist
+END
+rc.debian.asterisk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/349535/trunk/contrib/init.d/rc.debian.asterisk
+END

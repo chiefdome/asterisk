@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/279954/trunk/main/editline/np
+END
+fgetln.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/np/fgetln.c
+END
+strlcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/np/strlcpy.c
+END
+vis.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/127903/trunk/main/editline/np/vis.c
+END
+unvis.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/179396/trunk/main/editline/np/unvis.c
+END
+vis.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/np/vis.h
+END
+strlcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/40722/trunk/main/editline/np/strlcat.c
+END

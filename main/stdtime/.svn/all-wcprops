@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/377138/trunk/main/stdtime
+END
+localtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/377138/trunk/main/stdtime/localtime.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/157974/trunk/main/stdtime/Makefile
+END
+private.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/82290/trunk/main/stdtime/private.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/360190/trunk/main/stdtime/test.c
+END
+tzfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/82292/trunk/main/stdtime/tzfile.h
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/portaudio/src/hostapi/wasapi
+END
+pa_win_wasapi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/src/hostapi/wasapi/pa_win_wasapi.cpp
+END

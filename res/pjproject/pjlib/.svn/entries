@@ -1,0 +1,46 @@
+10
+
+dir
+378911
+http://svn.asterisk.org/svn/asterisk/trunk/res/pjproject/pjlib
+http://svn.asterisk.org/svn/asterisk
+
+
+
+2012-10-08T00:45:36.708333Z
+374643
+mjordan
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+f38db490-d61c-443f-a65b-d21fe96a405b
+
+include
+dir
+
+lib
+dir
+
+src
+dir
+
+bin
+dir
+
+docs
+dir
+
+build
+dir
+

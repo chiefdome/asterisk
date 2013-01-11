@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/369677/trunk/res/pjproject/pjmedia/include
+END
+pjmedia.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia.h
+END
+pjmedia_audiodev.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia_audiodev.h
+END
+pjmedia_videodev.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia_videodev.h
+END
+pjmedia-codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-codec.h
+END

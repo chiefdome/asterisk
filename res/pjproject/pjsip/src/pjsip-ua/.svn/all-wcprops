@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip/src/pjsip-ua
+END
+sip_inv.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/src/pjsip-ua/sip_inv.c
+END
+sip_reg.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/src/pjsip-ua/sip_reg.c
+END
+sip_replaces.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/src/pjsip-ua/sip_replaces.c
+END
+sip_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/src/pjsip-ua/sip_timer.c
+END
+sip_100rel.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/src/pjsip-ua/sip_100rel.c
+END
+sip_xfer.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip/src/pjsip-ua/sip_xfer.c
+END

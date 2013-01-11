@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/327246/trunk/utils/db1-ast
+END
+libdb.map
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/libdb.map
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/Makefile
+END

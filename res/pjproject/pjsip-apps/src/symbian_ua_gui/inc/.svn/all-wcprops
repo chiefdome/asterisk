@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc
+END
+symbian_ua_guiSettingItemList.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc/symbian_ua_guiSettingItemList.h
+END
+Symbian_ua_guiSettingItemListSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc/Symbian_ua_guiSettingItemListSettings.h
+END
+symbian_ua_gui.hrh
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc/symbian_ua_gui.hrh
+END
+symbian_ua.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc/symbian_ua.h
+END
+symbian_ua_guiContainer.hrh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc/symbian_ua_guiContainer.hrh
+END
+symbian_ua_guiContainerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc/symbian_ua_guiContainerView.h
+END
+symbian_ua_guiAppUi.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc/symbian_ua_guiAppUi.h
+END
+symbian_ua_guiDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc/symbian_ua_guiDocument.h
+END
+symbian_ua_guiContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc/symbian_ua_guiContainer.h
+END
+symbian_ua_guiSettingItemList.hrh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc/symbian_ua_guiSettingItemList.hrh
+END
+symbian_ua_guiApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc/symbian_ua_guiApplication.h
+END
+symbian_ua_guiSettingItemListView.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc/symbian_ua_guiSettingItemListView.h
+END
+symbian_ua_gui.pan
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/symbian_ua_gui/inc/symbian_ua_gui.pan
+END

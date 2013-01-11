@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 97
+*.o
+*.a
+*.d
+*.eo
+*.eoo
+*.i
+*.makeopts
+*.moduleinfo
+*.s
+*.so
+*.exports
+modules.link
+*.gcno
+*.gcda
+
+END

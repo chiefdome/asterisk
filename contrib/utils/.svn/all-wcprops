@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/asterisk/!svn/ver/130044/trunk/contrib/utils
+END
+zones2indications.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/130044/trunk/contrib/utils/zones2indications.c
+END
+eagi_proxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/89077/trunk/contrib/utils/eagi_proxy.c
+END
+rawplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/12893/trunk/contrib/utils/rawplayer.c
+END
+README.rawplayer
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/9991/trunk/contrib/utils/README.rawplayer
+END

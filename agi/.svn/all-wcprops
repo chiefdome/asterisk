@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/asterisk/!svn/ver/375007/trunk/agi
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/375007/trunk/agi/Makefile
+END
+agi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/338229/trunk/agi/agi.xml
+END
+eagi-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/328259/trunk/agi/eagi-test.c
+END
+jukebox.agi
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/12165/trunk/agi/jukebox.agi
+END
+DialAnMp3.agi
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/9991/trunk/agi/DialAnMp3.agi
+END
+eagi-sphinx-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/211539/trunk/agi/eagi-sphinx-test.c
+END
+fastagi-test
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/9991/trunk/agi/fastagi-test
+END
+numeralize
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/9991/trunk/agi/numeralize
+END
+agi-test.agi
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/9991/trunk/agi/agi-test.agi
+END

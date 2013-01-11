@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip-apps/src/3rdparty_media_sample
+END
+alt_pjsua_vid.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/3rdparty_media_sample/alt_pjsua_vid.c
+END
+alt_pjsua_aud.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/3rdparty_media_sample/alt_pjsua_aud.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/3rdparty_media_sample/Makefile
+END
+config_site.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/3rdparty_media_sample/config_site.h
+END

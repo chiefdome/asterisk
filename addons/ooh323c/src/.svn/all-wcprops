@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/371081/trunk/addons/ooh323c/src
+END
+ooCalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/369148/trunk/addons/ooh323c/src/ooCalls.c
+END
+encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/254931/trunk/addons/ooh323c/src/encode.c
+END
+ooGkClient.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/371081/trunk/addons/ooh323c/src/ooGkClient.c
+END
+ooUtils.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/254931/trunk/addons/ooh323c/src/ooUtils.c
+END
+ooDateTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/227898/trunk/addons/ooh323c/src/ooDateTime.h
+END
+rtctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/204413/trunk/addons/ooh323c/src/rtctype.h
+END
+ooCalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/369613/trunk/addons/ooh323c/src/ooCalls.h
+END
+ooh323ep.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/371010/trunk/addons/ooh323c/src/ooh323ep.c
+END
+ooGkClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/313482/trunk/addons/ooh323c/src/ooGkClient.h
+END
+ooUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/204413/trunk/addons/ooh323c/src/ooUtils.h
+END
+ooports.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/313482/trunk/addons/ooh323c/src/ooports.c
+END
+ooh323ep.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/313482/trunk/addons/ooh323c/src/ooh323ep.h
+END
+ooports.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/204413/trunk/addons/ooh323c/src/ooports.h
+END
+memheap.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/354429/trunk/addons/ooh323c/src/memheap.c
+END
+ooh323.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/369613/trunk/addons/ooh323c/src/ooh323.c
+END
+ooh245.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/369613/trunk/addons/ooh323c/src/ooh245.c
+END
+memheap.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/227898/trunk/addons/ooh323c/src/memheap.h
+END
+ooh323.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/255199/trunk/addons/ooh323c/src/ooh323.h
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/369602/trunk/addons/ooh323c/src/decode.c
+END
+context.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/254931/trunk/addons/ooh323c/src/context.c
+END
+perutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/369602/trunk/addons/ooh323c/src/perutil.c
+END
+ooh245.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/369613/trunk/addons/ooh323c/src/ooh245.h
+END
+ooSocket.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/369602/trunk/addons/ooh323c/src/ooSocket.c
+END
+oochannels.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/344161/trunk/addons/ooh323c/src/oochannels.c
+END
+ooper.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/204413/trunk/addons/ooh323c/src/ooper.h
+END
+ooCmdChannel.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/369620/trunk/addons/ooh323c/src/ooCmdChannel.c
+END
+printHandler.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/343448/trunk/addons/ooh323c/src/printHandler.c
+END
+ooSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/313482/trunk/addons/ooh323c/src/ooSocket.h
+END
+ooCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/227898/trunk/addons/ooh323c/src/ooCommon.h
+END
+ooq931.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/369620/trunk/addons/ooh323c/src/ooq931.c
+END
+ootrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/254931/trunk/addons/ooh323c/src/ootrace.c
+END
+oochannels.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/227898/trunk/addons/ooh323c/src/oochannels.h
+END
+ooCmdChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/227898/trunk/addons/ooh323c/src/ooCmdChannel.h
+END
+printHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/227898/trunk/addons/ooh323c/src/printHandler.h
+END
+ooq931.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/369613/trunk/addons/ooh323c/src/ooq931.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/204413/trunk/addons/ooh323c/src/Makefile.in
+END
+ootrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/227898/trunk/addons/ooh323c/src/ootrace.h
+END
+ooasn1.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/254931/trunk/addons/ooh323c/src/ooasn1.h
+END
+ootypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/344161/trunk/addons/ooh323c/src/ootypes.h
+END
+ooLogChan.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/369613/trunk/addons/ooh323c/src/ooLogChan.c
+END
+ooStackCmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/369620/trunk/addons/ooh323c/src/ooStackCmds.c
+END
+errmgmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/254931/trunk/addons/ooh323c/src/errmgmt.c
+END
+ooTimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/371059/trunk/addons/ooh323c/src/ooTimer.c
+END
+ooLogChan.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/369613/trunk/addons/ooh323c/src/ooLogChan.h
+END
+dlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/343448/trunk/addons/ooh323c/src/dlist.c
+END
+ooStackCmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/369613/trunk/addons/ooh323c/src/ooStackCmds.h
+END
+eventHandler.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/254931/trunk/addons/ooh323c/src/eventHandler.c
+END
+ooCapability.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/369602/trunk/addons/ooh323c/src/ooCapability.c
+END
+oohdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/204413/trunk/addons/ooh323c/src/oohdr.h
+END
+ooTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/204413/trunk/addons/ooh323c/src/ooTimer.h
+END
+dlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/343448/trunk/addons/ooh323c/src/dlist.h
+END
+eventHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/227898/trunk/addons/ooh323c/src/eventHandler.h
+END
+ooCapability.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/227898/trunk/addons/ooh323c/src/ooCapability.h
+END
+rtctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/254931/trunk/addons/ooh323c/src/rtctype.c
+END
+ooDateTime.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/227898/trunk/addons/ooh323c/src/ooDateTime.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/build/samplerate
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/build/samplerate/README.txt
+END
+Static.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/build/samplerate/Static.msvc
+END
+libsamplerate_static.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/build/samplerate/libsamplerate_static.dsp
+END

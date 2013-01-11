@@ -1,0 +1,40 @@
+10
+
+dir
+378911
+http://svn.asterisk.org/svn/asterisk/trunk/contrib/realtime
+http://svn.asterisk.org/svn/asterisk
+
+
+
+2013-01-03T16:04:11.491860Z
+378414
+tilghman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f38db490-d61c-443f-a65b-d21fe96a405b
+
+postgresql
+dir
+
+mysql
+dir
+
+oracle
+dir
+
+sqlserver
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjlib/docs
+END
+doxygen.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/docs/doxygen.cfg
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/docs/header.html
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/docs/footer.html
+END
+doxygen.css
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/docs/doxygen.css
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjsip-apps/src/ipjsystest
+END
+ipjsystest_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsystest/ipjsystest_Prefix.pch
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsystest/MainWindow.xib
+END
+TestViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsystest/TestViewController.xib
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsystest/main.m
+END
+RootViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsystest/RootViewController.xib
+END
+ipjsystest-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjsip-apps/src/ipjsystest/ipjsystest-Info.plist
+END

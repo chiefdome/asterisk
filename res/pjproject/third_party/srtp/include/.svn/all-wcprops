@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/srtp/include
+END
+ut_sim.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/include/ut_sim.h
+END
+getopt_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/include/getopt_s.h
+END
+rtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/include/rtp.h
+END
+rtp_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/include/rtp_priv.h
+END
+srtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/include/srtp.h
+END
+srtp_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/include/srtp_priv.h
+END

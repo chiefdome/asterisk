@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/portaudio
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/install-sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/Makefile.in
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/Doxyfile
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/configure.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/depcomp
+END
+fixdir.bat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/fixdir.bat
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/config.guess
+END
+fixfile.bat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/fixfile.bat
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/ltmain.sh
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/LICENSE.txt
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/SConstruct
+END
+portaudio-2.0.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/portaudio-2.0.pc.in
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/missing
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/index.html
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/portaudio/README.txt
+END

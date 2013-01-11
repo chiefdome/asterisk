@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/asterisk/!svn/ver/305988/trunk/phoneprov
+END
+000000000000.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/300385/trunk/phoneprov/000000000000.cfg
+END
+000000000000-directory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/112906/trunk/phoneprov/000000000000-directory.xml
+END
+polycom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/148825/trunk/phoneprov/polycom.xml
+END
+000000000000-phone.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/97634/trunk/phoneprov/000000000000-phone.cfg
+END
+polycom_line.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/166908/trunk/phoneprov/polycom_line.xml
+END
+snom-mac.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/305988/trunk/phoneprov/snom-mac.xml
+END

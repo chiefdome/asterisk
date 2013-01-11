@@ -1,0 +1,617 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/asterisk/!svn/ver/378688/trunk/configs
+END
+app_skel.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/368181/trunk/configs/app_skel.conf.sample
+END
+acl.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/370265/trunk/configs/acl.conf.sample
+END
+minivm.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/197535/trunk/configs/minivm.conf.sample
+END
+chan_mobile.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/209993/trunk/configs/chan_mobile.conf.sample
+END
+codecs.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/326855/trunk/configs/codecs.conf.sample
+END
+cdr_custom.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/269153/trunk/configs/cdr_custom.conf.sample
+END
+chan_dahdi.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/374730/trunk/configs/chan_dahdi.conf.sample
+END
+enum.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/81380/trunk/configs/enum.conf.sample
+END
+rtp.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/374677/trunk/configs/rtp.conf.sample
+END
+queues.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/378688/trunk/configs/queues.conf.sample
+END
+cli_aliases.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/369527/trunk/configs/cli_aliases.conf.sample
+END
+res_corosync.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/354046/trunk/configs/res_corosync.conf.sample
+END
+cdr_syslog.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/269153/trunk/configs/cdr_syslog.conf.sample
+END
+phone.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/197535/trunk/configs/phone.conf.sample
+END
+cel_tds.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/203638/trunk/configs/cel_tds.conf.sample
+END
+festival.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/197535/trunk/configs/festival.conf.sample
+END
+cdr_pgsql.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/291039/trunk/configs/cdr_pgsql.conf.sample
+END
+muted.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/122234/trunk/configs/muted.conf.sample
+END
+http.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/353821/trunk/configs/http.conf.sample
+END
+logger.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/372976/trunk/configs/logger.conf.sample
+END
+agents.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/373771/trunk/configs/agents.conf.sample
+END
+jabber.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/321546/trunk/configs/jabber.conf.sample
+END
+udptl.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/222110/trunk/configs/udptl.conf.sample
+END
+res_ldap.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/372290/trunk/configs/res_ldap.conf.sample
+END
+extensions.lua.sample
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/347954/trunk/configs/extensions.lua.sample
+END
+dbsep.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/342871/trunk/configs/dbsep.conf.sample
+END
+osp.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/275551/trunk/configs/osp.conf.sample
+END
+console.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/249893/trunk/configs/console.conf.sample
+END
+cdr_manager.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/70122/trunk/configs/cdr_manager.conf.sample
+END
+oss.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/249893/trunk/configs/oss.conf.sample
+END
+cdr_sqlite3_custom.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/355230/trunk/configs/cdr_sqlite3_custom.conf.sample
+END
+cli.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/101322/trunk/configs/cli.conf.sample
+END
+voicemail.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/378414/trunk/configs/voicemail.conf.sample
+END
+cdr.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/369493/trunk/configs/cdr.conf.sample
+END
+misdn.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/370831/trunk/configs/misdn.conf.sample
+END
+manager.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/370681/trunk/configs/manager.conf.sample
+END
+skinny.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/314666/trunk/configs/skinny.conf.sample
+END
+meetme.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/197535/trunk/configs/meetme.conf.sample
+END
+res_curl.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/295364/trunk/configs/res_curl.conf.sample
+END
+telcordia-1.adsi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/197535/trunk/configs/telcordia-1.adsi
+END
+sla.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/305843/trunk/configs/sla.conf.sample
+END
+alsa.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/249893/trunk/configs/alsa.conf.sample
+END
+adsi.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/9991/trunk/configs/adsi.conf.sample
+END
+phoneprov.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/305988/trunk/configs/phoneprov.conf.sample
+END
+alarmreceiver.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/375150/trunk/configs/alarmreceiver.conf.sample
+END
+func_odbc.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/216846/trunk/configs/func_odbc.conf.sample
+END
+res_config_sqlite3.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/335129/trunk/configs/res_config_sqlite3.conf.sample
+END
+sip_notify.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/369820/trunk/configs/sip_notify.conf.sample
+END
+followme.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/365951/trunk/configs/followme.conf.sample
+END
+asterisk.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/363558/trunk/configs/asterisk.conf.sample
+END
+cel_odbc.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/358576/trunk/configs/cel_odbc.conf.sample
+END
+ccss.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/357013/trunk/configs/ccss.conf.sample
+END
+cel_custom.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/353648/trunk/configs/cel_custom.conf.sample
+END
+res_pgsql.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/265894/trunk/configs/res_pgsql.conf.sample
+END
+queuerules.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/324242/trunk/configs/queuerules.conf.sample
+END
+cdr_odbc.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/269153/trunk/configs/cdr_odbc.conf.sample
+END
+asterisk.adsi
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/197535/trunk/configs/asterisk.adsi
+END
+users.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/313528/trunk/configs/users.conf.sample
+END
+amd.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/197535/trunk/configs/amd.conf.sample
+END
+gtalk.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/293578/trunk/configs/gtalk.conf.sample
+END
+confbridge.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/358730/trunk/configs/confbridge.conf.sample
+END
+res_config_mysql.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/342871/trunk/configs/res_config_mysql.conf.sample
+END
+cel.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/353648/trunk/configs/cel.conf.sample
+END
+jingle.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/197535/trunk/configs/jingle.conf.sample
+END
+modules.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/229819/trunk/configs/modules.conf.sample
+END
+calendar.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/309640/trunk/configs/calendar.conf.sample
+END
+res_stun_monitor.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/346709/trunk/configs/res_stun_monitor.conf.sample
+END
+extensions.ael.sample
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/252762/trunk/configs/extensions.ael.sample
+END
+cdr_adaptive_odbc.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/asterisk/!svn/ver/358444/trunk/configs/cdr_adaptive_odbc.conf.sample
+END
+ooh323.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/369613/trunk/configs/ooh323.conf.sample
+END
+extensions_minivm.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/asterisk/!svn/ver/197535/trunk/configs/extensions_minivm.conf.sample
+END
+motif.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/376984/trunk/configs/motif.conf.sample
+END
+features.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/351913/trunk/configs/features.conf.sample
+END
+h323.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/305843/trunk/configs/h323.conf.sample
+END
+res_odbc.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/373581/trunk/configs/res_odbc.conf.sample
+END
+iax.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/369959/trunk/configs/iax.conf.sample
+END
+xmpp.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/369527/trunk/configs/xmpp.conf.sample
+END
+dsp.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/374493/trunk/configs/dsp.conf.sample
+END
+res_snmp.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/305799/trunk/configs/res_snmp.conf.sample
+END
+dnsmgr.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/197535/trunk/configs/dnsmgr.conf.sample
+END
+sip.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/377971/trunk/configs/sip.conf.sample
+END
+say.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/284319/trunk/configs/say.conf.sample
+END
+smdi.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/197089/trunk/configs/smdi.conf.sample
+END
+cdr_mysql.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/311931/trunk/configs/cdr_mysql.conf.sample
+END
+extensions.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/373239/trunk/configs/extensions.conf.sample
+END
+res_config_sqlite.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/asterisk/!svn/ver/204440/trunk/configs/res_config_sqlite.conf.sample
+END
+res_pktccops.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/337776/trunk/configs/res_pktccops.conf.sample
+END
+cel_sqlite3_custom.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/353648/trunk/configs/cel_sqlite3_custom.conf.sample
+END
+cli_permissions.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/197535/trunk/configs/cli_permissions.conf.sample
+END
+dundi.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/343693/trunk/configs/dundi.conf.sample
+END
+indications.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/329711/trunk/configs/indications.conf.sample
+END
+config_test.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/370043/trunk/configs/config_test.conf.sample
+END
+app_mysql.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/204419/trunk/configs/app_mysql.conf.sample
+END
+cel_pgsql.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/353648/trunk/configs/cel_pgsql.conf.sample
+END
+cdr_tds.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/269153/trunk/configs/cdr_tds.conf.sample
+END
+musiconhold.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/352134/trunk/configs/musiconhold.conf.sample
+END
+mgcp.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/305843/trunk/configs/mgcp.conf.sample
+END
+extconfig.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/369959/trunk/configs/extconfig.conf.sample
+END
+res_fax.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/289301/trunk/configs/res_fax.conf.sample
+END
+vpb.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/347954/trunk/configs/vpb.conf.sample
+END
+iaxprov.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/305843/trunk/configs/iaxprov.conf.sample
+END
+unistim.conf.sample
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/370165/trunk/configs/unistim.conf.sample
+END

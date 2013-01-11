@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/asterisk/!svn/ver/366351/trunk/autoconf
+END
+ast_c_compile_check.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/262102/trunk/autoconf/ast_c_compile_check.m4
+END
+ast_prog_egrep.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/151242/trunk/autoconf/ast_prog_egrep.m4
+END
+ast_c_define_check.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/262102/trunk/autoconf/ast_c_define_check.m4
+END
+ast_ext_tool_check.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/272254/trunk/autoconf/ast_ext_tool_check.m4
+END
+ast_check_mandatory.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/151242/trunk/autoconf/ast_check_mandatory.m4
+END
+ast_check_osptk.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/196946/trunk/autoconf/ast_check_osptk.m4
+END
+ast_check_openh323.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/182722/trunk/autoconf/ast_check_openh323.m4
+END
+ast_c_declare_check.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/355621/trunk/autoconf/ast_c_declare_check.m4
+END
+ast_prog_ld_gnu.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/151242/trunk/autoconf/ast_prog_ld_gnu.m4
+END
+ast_prog_sed.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/180944/trunk/autoconf/ast_prog_sed.m4
+END
+ast_pkgconfig.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/366351/trunk/autoconf/ast_pkgconfig.m4
+END
+ast_check_pwlib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/316520/trunk/autoconf/ast_check_pwlib.m4
+END
+acx_pthread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/151242/trunk/autoconf/acx_pthread.m4
+END
+ast_func_fork.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/277775/trunk/autoconf/ast_func_fork.m4
+END
+ast_gcc_attribute.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/350839/trunk/autoconf/ast_gcc_attribute.m4
+END
+ast_check_gnu_make.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/180944/trunk/autoconf/ast_check_gnu_make.m4
+END
+libcurl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/350839/trunk/autoconf/libcurl.m4
+END
+ast_prog_ld.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/151242/trunk/autoconf/ast_prog_ld.m4
+END
+ast_ext_lib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/339721/trunk/autoconf/ast_ext_lib.m4
+END

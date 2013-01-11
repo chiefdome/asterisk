@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/asterisk/!svn/ver/378288/trunk/channels/sip
+END
+security_events.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/370636/trunk/channels/sip/security_events.c
+END
+dialplan_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/369013/trunk/channels/sip/dialplan_functions.c
+END
+reqresp_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/373330/trunk/channels/sip/reqresp_parser.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/369013/trunk/channels/sip/utils.c
+END
+config_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/370773/trunk/channels/sip/config_parser.c
+END
+sdp_crypto.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/372712/trunk/channels/sip/sdp_crypto.c
+END
+srtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/371989/trunk/channels/sip/srtp.c
+END

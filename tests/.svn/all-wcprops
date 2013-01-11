@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/asterisk/!svn/ver/377846/trunk/tests
+END
+test_substitution.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/357542/trunk/tests/test_substitution.c
+END
+test_heap.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/332178/trunk/tests/test_heap.c
+END
+test_abstract_jb.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/370387/trunk/tests/test_abstract_jb.c
+END
+test_logger.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/338557/trunk/tests/test_logger.c
+END
+test_gosub.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/373384/trunk/tests/test_gosub.c
+END
+test_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/370541/trunk/tests/test_event.c
+END
+test_hashtab_thrash.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/376341/trunk/tests/test_hashtab_thrash.c
+END
+test_db.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/asterisk/!svn/ver/374151/trunk/tests/test_db.c
+END
+test_func_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/332178/trunk/tests/test_func_file.c
+END
+test_security_events.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/365248/trunk/tests/test_security_events.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/asterisk/!svn/ver/375007/trunk/tests/Makefile
+END
+test_stringfields.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/332178/trunk/tests/test_stringfields.c
+END
+test_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/332178/trunk/tests/test_time.c
+END
+test_locale.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/338557/trunk/tests/test_locale.c
+END
+test_devicestate.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/358945/trunk/tests/test_devicestate.c
+END
+test_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/356397/trunk/tests/test_utils.c
+END
+test_voicemail_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/368966/trunk/tests/test_voicemail_api.c
+END
+test_astobj2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/376575/trunk/tests/test_astobj2.c
+END
+test_ami_security_events.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/asterisk/!svn/ver/206021/trunk/tests/test_ami_security_events.sh
+END
+test_amihooks.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/338557/trunk/tests/test_amihooks.c
+END
+test_astobj2_thrash.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/376341/trunk/tests/test_astobj2_thrash.c
+END
+test_ast_format_str_reduce.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/asterisk/!svn/ver/332178/trunk/tests/test_ast_format_str_reduce.c
+END
+test_expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/332178/trunk/tests/test_expr.c
+END
+test_app.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/332178/trunk/tests/test_app.c
+END
+test_dlinklists.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/338557/trunk/tests/test_dlinklists.c
+END
+test_format_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/352996/trunk/tests/test_format_api.c
+END
+test_scoped_lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/371633/trunk/tests/test_scoped_lock.c
+END
+test_linkedlists.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/370655/trunk/tests/test_linkedlists.c
+END
+test_sched.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/asterisk/!svn/ver/332178/trunk/tests/test_sched.c
+END
+test_netsock2.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/344214/trunk/tests/test_netsock2.c
+END
+test_pbx.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/337063/trunk/tests/test_pbx.c
+END
+test_strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/332178/trunk/tests/test_strings.c
+END
+test_skel.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/332178/trunk/tests/test_skel.c
+END
+test_jitterbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/359406/trunk/tests/test_jitterbuf.c
+END
+test_acl.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/370453/trunk/tests/test_acl.c
+END
+test_aoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/asterisk/!svn/ver/332178/trunk/tests/test_aoc.c
+END
+test_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/370043/trunk/tests/test_config.c
+END
+test_poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/362682/trunk/tests/test_poll.c
+END
+test_uuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/377846/trunk/tests/test_uuid.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/build/milenage
+END
+libmilenage.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/build/milenage/libmilenage.vcp
+END
+libmilenage.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/build/milenage/libmilenage.vcproj
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/build/milenage/Makefile
+END

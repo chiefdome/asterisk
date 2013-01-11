@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/327246/trunk/utils/db1-ast/recno
+END
+rec_put.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/recno/rec_put.c
+END
+rec_seq.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/recno/rec_seq.c
+END
+rec_get.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/recno/rec_get.c
+END
+rec_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/recno/rec_utils.c
+END
+extern.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/recno/extern.h
+END
+rec_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/recno/rec_open.c
+END
+rec_delete.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/recno/rec_delete.c
+END
+recno.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/recno/recno.h
+END
+rec_close.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/recno/rec_close.c
+END
+rec_search.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/asterisk/!svn/ver/326589/trunk/utils/db1-ast/recno/rec_search.c
+END

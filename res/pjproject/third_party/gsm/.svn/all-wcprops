@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/372612/trunk/res/pjproject/third_party/gsm
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/gsm/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/gsm/README
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/gsm/INSTALL
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/gsm/MANIFEST
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/gsm/ChangeLog
+END
+MACHINES
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/gsm/MACHINES
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/gsm/COPYRIGHT
+END

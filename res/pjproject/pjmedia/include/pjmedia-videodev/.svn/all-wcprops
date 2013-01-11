@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/pjmedia/include/pjmedia-videodev
+END
+videodev_imp.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-videodev/videodev_imp.h
+END
+avi_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-videodev/avi_dev.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-videodev/config.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-videodev/errno.h
+END
+videodev.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjmedia/include/pjmedia-videodev/videodev.h
+END

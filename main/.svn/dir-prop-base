@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 74
+*.d
+*.dylib*
+*.exports
+*.gcda
+*.gcno
+*.i
+*.o
+*.s
+*.so*
+asterisk
+version.c
+
+END

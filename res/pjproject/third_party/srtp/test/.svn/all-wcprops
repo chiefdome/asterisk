@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/srtp/test
+END
+dtls_srtp_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/test/dtls_srtp_driver.c
+END
+rdbx_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/test/rdbx_driver.c
+END
+rtpw.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/test/rtpw.c
+END
+roc_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/test/roc_driver.c
+END
+rtpw_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/test/rtpw_test.sh
+END
+srtp_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/test/srtp_driver.c
+END
+getopt_s.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/test/getopt_s.c
+END
+rtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/test/rtp.c
+END
+lfsr.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/test/lfsr.c
+END
+replay_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/srtp/test/replay_driver.c
+END

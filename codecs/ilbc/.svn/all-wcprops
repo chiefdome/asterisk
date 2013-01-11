@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/asterisk/!svn/ver/373656/trunk/codecs/ilbc
+END
+StateConstructW.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/StateConstructW.h
+END
+packing.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/packing.h
+END
+LPCdecode.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/LPCdecode.c
+END
+lsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/lsf.c
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/filter.c
+END
+iLBC_encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/373656/trunk/codecs/ilbc/iLBC_encode.c
+END
+LPCdecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/LPCdecode.h
+END
+FrameClassify.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/FrameClassify.c
+END
+hpOutput.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/hpOutput.c
+END
+iLBC_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/iLBC_define.h
+END
+lsf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/lsf.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/filter.h
+END
+extract-cfile.awk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/extract-cfile.awk
+END
+iLBC_encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/iLBC_encode.h
+END
+FrameClassify.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/FrameClassify.h
+END
+StateSearchW.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/StateSearchW.c
+END
+hpOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/hpOutput.h
+END
+helpfun.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/351763/trunk/codecs/ilbc/helpfun.c
+END
+StateSearchW.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/StateSearchW.h
+END
+iCBConstruct.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/iCBConstruct.c
+END
+syntFilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/syntFilter.c
+END
+anaFilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/anaFilter.c
+END
+helpfun.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/helpfun.h
+END
+iCBConstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/iCBConstruct.h
+END
+syntFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/syntFilter.h
+END
+anaFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/anaFilter.h
+END
+constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/constants.c
+END
+iLBC_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/373656/trunk/codecs/ilbc/iLBC_decode.c
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/constants.h
+END
+iLBC_decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/iLBC_decode.h
+END
+getCBvec.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/getCBvec.c
+END
+enhancer.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/enhancer.c
+END
+iCBSearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/iCBSearch.c
+END
+getCBvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/getCBvec.h
+END
+gainquant.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/gainquant.c
+END
+hpInput.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/hpInput.c
+END
+enhancer.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/enhancer.h
+END
+iCBSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/iCBSearch.h
+END
+rfc3951.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/rfc3951.txt
+END
+gainquant.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/gainquant.h
+END
+LPCencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351819/trunk/codecs/ilbc/LPCencode.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/Makefile
+END
+hpInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/hpInput.h
+END
+PATENTS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/PATENTS
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/LICENSE
+END
+LPCencode.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/LPCencode.h
+END
+LICENSE_ADDENDUM
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/LICENSE_ADDENDUM
+END
+doCPLC.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/doCPLC.c
+END
+createCB.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/createCB.c
+END
+iLBC_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/asterisk/!svn/ver/351862/trunk/codecs/ilbc/iLBC_test.c
+END
+doCPLC.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/doCPLC.h
+END
+StateConstructW.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/StateConstructW.c
+END
+packing.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/packing.c
+END
+createCB.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/asterisk/!svn/ver/351452/trunk/codecs/ilbc/createCB.h
+END

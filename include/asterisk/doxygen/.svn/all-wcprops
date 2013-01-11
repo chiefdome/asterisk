@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/asterisk/!svn/ver/375182/trunk/include/asterisk/doxygen
+END
+reviewboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/375182/trunk/include/asterisk/doxygen/reviewboard.h
+END
+commits.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/asterisk/!svn/ver/375182/trunk/include/asterisk/doxygen/commits.h
+END
+licensing.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/375182/trunk/include/asterisk/doxygen/licensing.h
+END
+architecture.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/375182/trunk/include/asterisk/doxygen/architecture.h
+END
+releases.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/375182/trunk/include/asterisk/doxygen/releases.h
+END
+asterisk-git-howto.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/375182/trunk/include/asterisk/doxygen/asterisk-git-howto.h
+END

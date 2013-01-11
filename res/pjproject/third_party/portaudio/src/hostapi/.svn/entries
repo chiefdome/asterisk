@@ -1,0 +1,58 @@
+10
+
+dir
+378911
+http://svn.asterisk.org/svn/asterisk/trunk/res/pjproject/third_party/portaudio/src/hostapi
+http://svn.asterisk.org/svn/asterisk
+
+
+
+2012-07-05T19:32:29.264101Z
+369673
+rmudgett
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+f38db490-d61c-443f-a65b-d21fe96a405b
+
+asio
+dir
+
+dsound
+dir
+
+asihpi
+dir
+
+alsa
+dir
+
+oss
+dir
+
+wasapi
+dir
+
+wdmks
+dir
+
+wmme
+dir
+
+jack
+dir
+
+coreaudio
+dir
+

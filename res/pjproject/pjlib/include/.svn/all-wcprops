@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/asterisk/!svn/ver/374643/trunk/res/pjproject/pjlib/include
+END
+pjlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/include/pjlib.h
+END
+pjlib++.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/pjlib/include/pjlib++.hpp
+END

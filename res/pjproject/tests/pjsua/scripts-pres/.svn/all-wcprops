@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/tests/pjsua/scripts-pres
+END
+200_publish.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-pres/200_publish.py
+END
+100_peertopeer.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/tests/pjsua/scripts-pres/100_peertopeer.py
+END

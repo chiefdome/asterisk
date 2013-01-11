@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/asterisk/!svn/ver/369673/trunk/res/pjproject/third_party/build/ilbc
+END
+libilbccodec.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/build/ilbc/libilbccodec.vcproj
+END
+libilbccodec.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/build/ilbc/libilbccodec.vcp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/asterisk/!svn/ver/369517/trunk/res/pjproject/third_party/build/ilbc/Makefile
+END
